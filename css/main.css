@@ -1,0 +1,45 @@
+h1 {
+    color: #B80A13;
+    font-size: 250px;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    font-family: 'Montserrat', sans-serif;
+}
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    display: flex;
+
+  }
+body {
+    background-color: #E0E2D5;
+}
+.stripe1 {
+    height: 55px;
+    width: 770px;
+    background: black;
+}
+.stripe2 {
+    height: 55px;
+    width: 770px;
+    background: black;
+    margin-left: auto; 
+    margin-right: 0;    
+}
+.stripe3 {
+    height: 55px;
+    width: 1250px;
+    background: black;
+}
+.stripe4 {
+    height: 55px;
+    width: 650px;
+    background: black;
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+  }
+     
